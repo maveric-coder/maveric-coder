@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anand</h1>
+<h1 align="center">Hey 👋, I'm Anand</h1>
 <h3 align="center">This vault contains some of my learnings so far ;)</h3>
 
 <br/><br/>
