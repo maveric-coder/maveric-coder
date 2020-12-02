@@ -3,7 +3,7 @@
 
 <br/><br/>
 
-- 🌱 I’m currently learning **Machine learning and AI.**
+- 🌱 I’m currently learning **Machine Learning and AI.**
 
 - 💬 Ask me about **Algorithm and Data Structures, SQL and NoSQL.**
 
