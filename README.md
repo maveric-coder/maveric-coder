@@ -23,8 +23,6 @@
 <a href="https://codeforces.com/profile/maveric-coder" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codeforces-512.png" alt="maveric-coder" height="30" width="30" /></a>
 </p>
 
-<br/>
-
 <h3 align="left">Programming & Scripting Languages:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
