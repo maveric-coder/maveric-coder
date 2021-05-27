@@ -3,7 +3,7 @@
 
 <br/><br/>
 
-- 🌱 I’m currently learning **Ruby.**
+- 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about **Algorithm and Data Structures, SQL and NoSQL.**
 
