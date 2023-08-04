@@ -3,9 +3,9 @@
 
 <br/><br/>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Kubernetes**
 
-<!--- - 💬 Ask me about **Algorithm and Data Structures, SQL and NoSQL.** -->
+<!--- - 💬 Ask me about **Cloud and DevOps** -->
 
 <!--- - 📫 Reach me at **anand.kumar1@hotmail.com**-->
 
