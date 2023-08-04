@@ -57,4 +57,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maveric-coder&theme=graywhite" alt="maveric-coder" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maveric-coder&theme=graywhite&show_icons=true&count_private=true" alt="maveric-coder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maveric-coder&theme=graywhite&show_icons=true&count_private=true&custom_title=All time Stats&include_all_commits=true" alt="maveric-coder" /></p>
