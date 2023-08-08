@@ -34,7 +34,7 @@
 <p align="left">
    <a href="https://www.jenkins.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/></a>
   <a href="https://maven.apache.org/" target="_blank"> <img src="https://blog.irontec.com/wp-content/uploads/2019/12/1280px-Maven_logo.svg_-768x194.png" alt="Maven" width="60" height="30"/></a>
-  <a href="https://tomcat.apache.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" alt="Tomcat" width="60" height="40"/></a>
+  <a href="https://tomcat.apache.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" alt="Tomcat" width="45" height="40"/></a>
   <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank"> <img src="https://i0.wp.com/www.naturalborncoder.com/wp-content/uploads/2015/05/sonarqube_logo_720.png?fit=720%2C200&ssl=1" alt="SonarQube" width="90" height="40"/></a>
   <a href="https://www.sonatype.com/products/sonatype-nexus-repository" target="_blank"> <img src="https://f.hubspotusercontent10.net/hubfs/3430860/Nexus_Repository_logo_stacked.png" alt="Nexus" width="40" height="40"/></a>
    <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="40"/></a>
