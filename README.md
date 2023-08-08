@@ -43,12 +43,8 @@
 
 <h3 align="left">Scripting Languages:</h3>
 <p align="left">
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bash_button_icon_151886.png" alt="bash" width="40" height="40"/></a>
-</p>
-<h3 align="left">Database:</h3>
-<p align="left">
-   <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40"/></a> 
+ <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://linube.com/blog/wp-content/uploads/bash-logo.png" alt="bash" width="40" height="40"/></a>
+ <a href="http://www.groovy-lang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" alt="Groovy" width="60" height="40"/></a>
   
 <h3 align="left">Others:</h3>
 <p align="left">
