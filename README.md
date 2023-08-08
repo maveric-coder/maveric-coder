@@ -34,8 +34,8 @@
 <p align="left">
    <a href="https://www.jenkins.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/></a>
   <a href="https://maven.apache.org/" target="_blank"> <img src="https://blog.irontec.com/wp-content/uploads/2019/12/1280px-Maven_logo.svg_-768x194.png" alt="Maven" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" alt="Tomcat" width="40" height="40"/></a>
-  <a href="https://tomcat.apache.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/></a>
+  <a href="https://tomcat.apache.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" alt="Tomcat" width="40" height="40"/></a>
+  <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank"> <img src="https://i0.wp.com/www.naturalborncoder.com/wp-content/uploads/2015/05/sonarqube_logo_720.png?fit=720%2C200&ssl=1" alt="SonarQube" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/></a>
    <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://kubernetes.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/19824574/41482054-47a3a702-70a2-11e8-9561-de51c5f71220.png" alt="kubernetes" width="40" height="40"/></a> 
