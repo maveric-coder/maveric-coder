@@ -58,7 +58,7 @@
 <br/>
 
 <h3 align="left">Stats:</h3>
-
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maveric-coder&theme=graywhite" alt="maveric-coder" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maveric-coder&theme=graywhite&show_icons=true&count_private=true" alt="maveric-coder" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maveric-coder&theme=graywhite&show_icons=true&count_private=true" alt="maveric-coder" /></p> -->
 
