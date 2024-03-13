@@ -1,10 +1,10 @@
 <h1 align="center">Hey 👋, I'm Anand</h1>
 
-Click here to see my [Portfolio](https://6rnmf5.csb.app/)
+[Click here](https://6rnmf5.csb.app/) to see my Portfolio
 
-<h3 align="center">This vault contains some of my learnings so far ;)</h3>
+<h4>This vault contains some of my learnings so far ;)</h4>
 
-<br/><br/>
+<br/>
 
 - 🌱 I’m currently learning **Kubernetes**
 
@@ -44,10 +44,11 @@ Click here to see my [Portfolio](https://6rnmf5.csb.app/)
   <a href="https://kubernetes.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/19824574/41482054-47a3a702-70a2-11e8-9561-de51c5f71220.png" alt="kubernetes" width="40" height="40"/></a> 
 </p>
 
-<h3 align="left">Scripting Languages:</h3>
+<h3 align="left">Scripting:</h3>
 <p align="left">
- <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://linube.com/blog/wp-content/uploads/bash-logo.png" alt="bash" width="40" height="40"/></a>
- <a href="http://www.groovy-lang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" alt="Groovy" width="60" height="40"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://linube.com/blog/wp-content/uploads/bash-logo.png" alt="bash" width="40" height="40"/></a>
+  <a href="http://www.groovy-lang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" alt="Groovy" width="60" height="40"/></a>
+  
   
 <h3 align="left">Others:</h3>
 <p align="left">
@@ -55,7 +56,8 @@ Click here to see my [Portfolio](https://6rnmf5.csb.app/)
   <a href="https://www.linux.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/develop/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="linux" width="40" height="40"/></a> 
   <a href="https://azure.microsoft.com/en-in" target="_blank"><img src="https://github.com/devicons/devicon/blob/develop/icons/azure/azure-original.svg" alt="linux" width="40" height="40"/></a> 
-
+  <a href="https://www.terraform.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="60" height="40"/></a>
+  <a href="https://www.ansible.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-plain-wordmark.svg" alt="Ansible" width="60" height="40"/></a>
   
 </p>
 <br/>
