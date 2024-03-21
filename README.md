@@ -6,7 +6,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m working as a **Cloud Operations Engineer**, and these are the tools/technologies I use.
 
 <!--- - 💬 Ask me about **Cloud and DevOps** -->
 
