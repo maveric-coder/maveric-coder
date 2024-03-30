@@ -46,7 +46,7 @@
 
 <h3 align="left">Scripting:</h3>
 <p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://linube.com/blog/wp-content/uploads/bash-logo.png" alt="bash" width="40" height="40"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
   <a href="http://www.groovy-lang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" alt="Groovy" width="60" height="40"/></a>
   <a target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" alt="PowerSehll" width="60" height="40"/></a>
   
