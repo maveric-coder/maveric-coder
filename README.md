@@ -1,10 +1,6 @@
 <h1 align="center">Hey 👋, I'm Anand</h1>
 
-[Click here](https://6rnmf5.csb.app/) to see my Portfolio
-
-<!-- <h4>This vault contains some of my learnings so far ;)</h4> -->
-
-<br/>
+👨‍💻 [Click here](https://6rnmf5.csb.app/) to see my Portfolio
 
 🌱 I’m working as a **Cloud Operations Engineer**, and these are the tools/technologies I use.
 
