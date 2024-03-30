@@ -48,14 +48,16 @@
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://linube.com/blog/wp-content/uploads/bash-logo.png" alt="bash" width="40" height="40"/></a>
   <a href="http://www.groovy-lang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" alt="Groovy" width="60" height="40"/></a>
+
+<h3 align="left">Cloud:</h3>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/develop/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="linux" width="40" height="40"/></a> 
+  <a href="https://azure.microsoft.com/en-in" target="_blank"><img src="https://github.com/devicons/devicon/blob/develop/icons/azure/azure-original.svg" alt="linux" width="40" height="40"/></a> 
   
   
 <h3 align="left">Others:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/develop/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="linux" width="40" height="40"/></a> 
-  <a href="https://azure.microsoft.com/en-in" target="_blank"><img src="https://github.com/devicons/devicon/blob/develop/icons/azure/azure-original.svg" alt="linux" width="40" height="40"/></a> 
   <a href="https://www.terraform.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="60" height="40"/></a>
   <a href="https://www.ansible.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-plain-wordmark.svg" alt="Ansible" width="60" height="40"/></a>
   
