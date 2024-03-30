@@ -1,3 +1,7 @@
+
+
+<!--
+
 <h1 align="center">Hey 👋, I'm Anand</h1>
 
 [Click here](https://6rnmf5.csb.app/) to see my Portfolio
@@ -72,3 +76,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maveric-coder&theme=graywhite" alt="maveric-coder" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=maveric-coder&theme=graywhite&show_icons=true&count_private=true" alt="maveric-coder" /></p> -->
 
+-->
