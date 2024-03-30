@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 <h1 align="center">Hey 👋, I'm Anand</h1>
 
 [Click here](https://6rnmf5.csb.app/) to see my Portfolio
@@ -16,9 +8,9 @@
 
 🌱 I’m working as a **Cloud Operations Engineer**, and these are the tools/technologies I use.
 
-- 💬 Ask me about **Cloud and DevOps**
+💬 Ask me about **Cloud and DevOps**
 
-- 📫 Reach me at **anand.kumar1@hotmail.com**
+📫 Reach me at **anand.kumar1@hotmail.com**
 
 
 
