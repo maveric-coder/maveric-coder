@@ -62,6 +62,8 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
   <a href="https://www.terraform.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="60" height="40"/></a>
   <a href="https://www.ansible.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-plain-wordmark.svg" alt="Ansible" width="60" height="40"/></a>
+  <a  target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="60" height="40"/></a>
+  <a  target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="Grafana" width="60" height="40"/></a>
   
 </p>
 <br/>
