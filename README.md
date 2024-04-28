@@ -2,7 +2,7 @@
 
 👨‍💻 [Click here](https://6rnmf5.csb.app/) to see my Portfolio
 
-🌱 I’m working as a **Cloud Operations Engineer**, and these are the tools/technologies I use.
+🌱 I’m working as a **DevOps Engineer**, and these are the tools/technologies I use.
 
 💬 Ask me about **Cloud and DevOps**
 
