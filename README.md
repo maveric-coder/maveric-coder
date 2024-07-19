@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Anand</h1>
+<h1 align="center">Hey 👋/h1>
 
 👨‍💻 [Click here](https://6rnmf5.csb.app/) to see my Portfolio
 
@@ -6,8 +6,8 @@
 
 💬 Ask me about **Cloud and DevOps**
 
-📫 Reach me at **anand.kumar1@hotmail.com**
-
+<!-- 📫 Reach me at **anand.kumar1@hotmail.com**
+-->
 
 
 <!--
