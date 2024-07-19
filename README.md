@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Anand </h1>
+<h1 align="center">Hey 👋 </h1>
 
 👨‍💻 [Click here](https://6rnmf5.csb.app/) to see my Portfolio
 
