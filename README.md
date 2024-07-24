@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 </h1>
 
-👨‍💻 [Click here](https://6rnmf5.csb.app/) to see my Portfolio
+<!-- 👨‍💻 [Click here](https://6rnmf5.csb.app/) to see my Portfolio -->
 
 🌱 I’m working as a **DevOps Engineer**, and these are the tools/technologies I use.
 
